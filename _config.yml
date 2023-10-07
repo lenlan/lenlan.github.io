@@ -5,7 +5,7 @@ plugins:
 title: Lennart Langouche, PhD
 logo: /assets/img/hs.jpg
 
-description: Computational Biologist | Health Data Scientist
+description: Computational Biologist | Machine Learning Scientist
 markdown: kramdown
 style: davewhipp
 show_downloads: true

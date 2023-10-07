@@ -1,7 +1,7 @@
 # About Me
 
 <br>
-I am a computational biologist/health data scientist with over 6 years of experience. My interests include: leveraging machine learning to analyze health data including multi-omics and real-world data for improving patient prognosis and enabling precision medicine.<br><br>
+I am a computational biologist/machine learning scientist with over 8 years of experience. My interests include: leveraging machine learning to analyze health data including multi-omics and real-world data for improving patient prognosis and enabling precision medicine.<br><br>
 During my PhD in the [Bioengineering Department at UCSD](https://be.ucsd.edu/) I focused on using AI/ML for infectious disease diagnostics in the context of systems medicine as part of the [Fraley Lab](https://fraley.ucsd.edu/systems-medicine).<br> 
 <br> 
 My PhD resulted in publications in Bioinformatics and Biomicrofluidics:<br> 
