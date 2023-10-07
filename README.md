@@ -1,21 +1,15 @@
 # About Me
 
 <br>
-I am a computational biologist/health data scientist with over 8 years of experience.<br>
-My interests include: leveraging machine learning to analyze multiomics data for improving patient prognosis, precision medicine, and DEI outreach--in both education and health equity.<br><br>
+I am a computational biologist/health data scientist with over 6 years of experience.<br>
+My interests include: leveraging machine learning to analyze health data including multi-omics and real-world data for improving patient prognosis and enabling precision medicine.<br><br>
 
-I obtained my PhD in Genetics at [UCSF](https://tetrad.ucsf.edu/) working in the context of systems neuroscience in [Evan Feinberg's lab](http://www.evanfeinberglab.com/).<br> 
-My thesis project resulted in 2 **first-author** publications:<br>
+During my PhD in the [Bioengineering Department at UCSD](https://be.ucsd.edu/) I focused on using AI/ML for infectious disease diagnostics.<br> 
+My thesis project resulted in a **first-author** publications in Bioinformatics:<br>
 
-> [*Virally Encoded Connectivity Transgenic Overlay RNA sequencing (VECTORseq) defines projection neurons involved in sensorimotor integration.*](https://doi.org/10.1016/j.celrep.2021.110131) Victoria Cheung; Philip Chung; Max Bjorni; Varvara Shvareva; Yesenia Lopez; Evan H Feinberg<br>
-
-> [*Transcriptional profiling of mouse projection neurons with VECTORseq.*](https://doi.org/10.1016/j.xpro.2022.101625) Victoria Cheung; Philip Chung; Evan H Feinberg<br>
+> [*Data-driven noise modeling of digital DNA melting analysis enables prediction of sequence discriminating power*](https://doi.org/10.1093/bioinformatics/btaa1053) Lennart Langouche, April Aralar, Mridu Sinha, Shelley M Lawrence, Stephanie I Fraley, Todd P Coleman<br>
 <br>
-
-During graduate school, I was in a health data science fellowship where I devised my own research question to independently build a predictive clinical calculator as a deliverable MVP--[blog post](https://towardsdatascience.com/predicting-acute-kidney-injury-in-hospitalized-patients-53ca07525e67?gi=619e89828b8e).<br>
-Following the fellowship, I spent 6 months at [Genentech](https://www.gene.com/) mentored by [Kevin Walsh](https://www.researchgate.net/profile/Kevin-Walsh-3) and [Robert Piskol](https://scholar.google.com/citations?user=4dgMpSAAAAAJ&hl=en) as an oncology bioinformatics intern; where I characterized gene signature development and refinement for T cell signaling pathways in cancer models.
-
 
 <p>&nbsp;</p>
 **Skills**<br>
-Amazon EC2 · Amazon S3 · Amazon Web Services (AWS) · Arduino · Bioinformatics · Cloud Computing · Computational Biology · Data Analysis · Data Science · Data Visualization · Distributed workflows · Google Cloud Platform (GCP) ·  Immunology · Laboratory Skills · Linux  · Machine Learning · Matlab · Molecular Oncology · Neuroscience · Next-Generation Sequencing · Oncology Clinical Research · Python (Programming Language) ·  R (Programming Language) · Statistics · SQL
+Bioinformatics · Cloud Computing · Computational Biology · Data Analysis · Data Science · Data Visualization ·Diagnostics · ImageJ (Software) · ImageJ Processing ·Infectious Disease · Laboratory Skills · Linux  · Machine Learning · Matlab · Next-Generation Sequencing · Clinical Research · PCR/dPCR · Python (Programming Language) ·  R (Programming Language) · Statistics · SQL · Tableau
