@@ -19,4 +19,4 @@ My PhD resulted in publications in Bioinformatics and Biomicrofluidics:<br>
 
 <p>&nbsp;</p>
 **Skills**<br>
-Bioinformatics · Cloud Computing · Computational Biology · Data Analysis · Data Science · Data Visualization ·Diagnostics · Git · ImageJ (Software) · Image Processing ·Infectious Disease · Laboratory Skills · Linux  · Machine Learning · Matlab · Next-Generation Sequencing · Clinical Research · PCR/dPCR · Python (Programming Language) ·  R (Programming Language) · Statistics · SQL · Tableau
+Bioinformatics · Cloud Computing · Computational Biology · Data Analysis · Data Science · Data Visualization · Diagnostics · Git · ImageJ (Software) · Image Processing · Infectious Disease · Laboratory Skills · Linux  · Machine Learning · Matlab · Next-Generation Sequencing · Clinical Research · PCR/dPCR · Python (Programming Language) ·  R (Programming Language) · Statistics · SQL · Tableau
