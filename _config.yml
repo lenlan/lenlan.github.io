@@ -1,0 +1,28 @@
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Victoria Cheung, PhD
+logo: /assets/img/hs.png
+
+description: Computational Biologist | Health Data Scientist
+markdown: kramdown
+style: davewhipp
+show_downloads: true
+github:
+  website_url: "https://vic-cheung.github.io/"
+  
+  embedded_ig_url: /pages/kitchen_experiments.html
+  embedded_twitter_url: /pages/twitter_posts.html
+  embedded_cv_url: /pages/cv.html
+  embedded_gscholar_url: /pages/google_scholar.html
+  embedded_neurotree_url: /pages/neurotree.html
+  
+  linkedin_url: "https://www.linkedin.com/in/victoriacheung/"
+  googlescholar_url: "https://scholar.google.com/citations?user=8DJJyEIAAAAJ&hl=en&oi=sra"
+  twitter_url: "https://twitter.com/victoriakcheung"
+  instagram_url: "https://www.instagram.com/victoriakcheung/"
+  cv_url: "https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_CV.pdf"
+  resume_url: "https://docs.google.com/viewer?url=https://github.com/vic-cheung/vic-cheung.github.io/raw/main/pdfs/VictoriaCheung_Resume.pdf"
+  neurotree_url: "https://neurotree.org/neurotree/tree.php?pid=730013&pnodecount=4&cnodecount=2&fontsize=.5"
+  
