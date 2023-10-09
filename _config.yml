@@ -12,17 +12,17 @@ show_downloads: true
 github:
   website_url: "https://lenlan.github.io/"
   
-  embedded_ig_url: /pages/kitchen_experiments.html
-  embedded_twitter_url: /pages/twitter_posts.html
-  embedded_cv_url: /pages/cv.html
-  embedded_gscholar_url: /pages/google_scholar.html
-  embedded_neurotree_url: /pages/neurotree.html
+  embedded_ig_url: ""
+  embedded_twitter_url: ""
+  embedded_cv_url: ""
+  embedded_gscholar_url: ""
+  embedded_neurotree_url: ""
   
   linkedin_url: "https://www.linkedin.com/in/lennart-langouche/"
   googlescholar_url: "https://scholar.google.com/citations?user=EhHicP0AAAAJ&hl=en"
   twitter_url: ""
   instagram_url: ""
-  cv_url: ""
-  resume_url: ""
+  cv_url: "https://github.com/lenlan/lenlan.github.io/blob/main/pdfs/CV.pdf"
+  resume_url: "https://github.com/lenlan/lenlan.github.io/blob/main/pdfs/Resume.pdf"
   neurotree_url: ""
   

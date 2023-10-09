@@ -6,15 +6,12 @@ During my PhD in the [Bioengineering Department at UCSD](https://be.ucsd.edu/) I
 <br> 
 My PhD resulted in publications in Bioinformatics and Biomicrofluidics:<br> 
 
-> [*Data-driven noise modeling of digital DNA melting analysis enables prediction of sequence discriminating power*](https://doi.org/10.1093/bioinformatics/btaa1053); Lennart Langouche, April Aralar, Mridu Sinha, Shelley M Lawrence, Stephanie I Fraley, Todd P Coleman; Bioinformatics (2020)<br>
+> L. Langouche, [*Advancing Rapid Infectious Disease Screening Using a Combined Experimental/Computational Approach*](https://escholarship.org/content/qt16x0t2x3/qt16x0t2x3_noSplash_01cb415bf9021eaf7221ce26ae44cb60.pdf), University of California, San Diego (2021)<br>
 <br>
-
-> [*A microfluidic design for desalination and selective removal and addition of components in biosamples*](https://doi.org/10.1063/1.5093348); Wei Cai, Edward Wang, Ping-Wei Chen, Yi-Huan Tsai, Lennart Langouche, Yu-Hwa Lo; Biomicrofluidics (2019)<br>
+> L. Langouche, A. Aralar, M. Sinha, S.M. Lawrence, S.I. Fraley, T.P. Coleman, [*Data-driven noise modeling of digital DNA melting analysis enables prediction of sequence discriminating power*](https://doi.org/10.1093/bioinformatics/btaa1053), Bioinformatics, 6 (2020)<br>
 <br>
-
-> [*Advancing Rapid Infectious Disease Screening Using a Combined Experimental/Computational Approach*](https://escholarship.org/content/qt16x0t2x3/qt16x0t2x3_noSplash_01cb415bf9021eaf7221ce26ae44cb60.pdf); Lennart Langouche; Dissertation (2021)<br>
+> W. Cai, E. Wang, P.W. Chen, Y.H. Tsai, L. Langouche, Y.H. Lo, [*A microfluidic design for desalination and selective removal and addition of components in biosamples*](https://doi.org/10.1063/1.5093348), Biomicrofluidics, 13.2 (2019)<br>
 <br>
-
 
 <p>&nbsp;</p>
 **Skills**<br>
