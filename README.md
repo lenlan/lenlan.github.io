@@ -13,10 +13,11 @@ My PhD resulted in publications in Bioinformatics and Biomicrofluidics:<br>
 > W. Cai, E. Wang, P.W. Chen, Y.H. Tsai, L. Langouche, Y.H. Lo, [*A microfluidic design for desalination and selective removal and addition of components in biosamples*](https://doi.org/10.1063/1.5093348), Biomicrofluidics, 13.2 (2019)<br>
 <br>
 
-After my PhD I worked in Life Sciences Management Consulting for two years at [IQVIA](https://www.iqvia.com/). I got experience in leading small teams to solve complex business cases for large pharmaceutical companies. <br>
-Currently, I am actively seeking opportunities that empower me to spearhead initiatives generating impactful societal change at the forefront of innovation. I'm primarily interested in biotech, climate tech, and health tech but open to other opportunities. <br>
+After my PhD I worked in Life Sciences Management Consulting for two years at [IQVIA](https://www.iqvia.com/), where I became experienced at leading small teams to address complex business challenges for major pharmaceutical companies.<br>
 <br>
-I recently published a two-part [blog-post](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-a4c6d279fd42?source=friends_link&sk=9e2330d6cf1fe4548f5d94965bfec825) on embedding multi-modal health data using large language models and using those embeddings to [predict clinical trial outcomes](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-7ce6c27831f9?source=friends_link&sk=f65fd3cce048a5e72ffe54673062e70f).
+I recently published a two-part blog-post on [embedding multi-modal health data](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-a4c6d279fd42?source=friends_link&sk=9e2330d6cf1fe4548f5d94965bfec825) with large language models and using those embeddings to [predict clinical trial outcomes](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-7ce6c27831f9?source=friends_link&sk=f65fd3cce048a5e72ffe54673062e70f).<br>
+<br>
+Currently, I am actively seeking opportunities that empower me to spearhead initiatives generating impactful societal change at the forefront of innovation. I'm primarily interested in biotech, climate tech, and health tech but open to other opportunities. <br>
 
 <p>&nbsp;</p>
 **Skills**<br>
