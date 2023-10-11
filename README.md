@@ -10,12 +10,12 @@ During my PhD in the [Bioengineering Department at UCSD](https://be.ucsd.edu/) I
 
 > W. Cai, E. Wang, P.W. Chen, Y.H. Tsai, **L. Langouche**, Y.H. Lo, [*A microfluidic design for desalination and selective removal and addition of components in biosamples*](https://doi.org/10.1063/1.5093348), Biomicrofluidics, 13.2 (2019)
 <br>
-
+<br>
 During my PhD I interned at [Illumina](https://www.illumina.com/), where I gained a better understanding of genomics and product management. After my PhD I worked as a Life Sciences Strategy Consultant for two years at [IQVIA](https://www.iqvia.com/), where I became experienced at leading small teams to address complex business challenges for major pharmaceutical companies.<br>
 <br>
 Currently, I am actively seeking opportunities that empower me to spearhead initiatives generating impactful societal change at the forefront of innovation. I'm primarily interested in biotech, climate tech, and health tech but open to other opportunities. <br>
 <br>
-I recently published a two-part blog post, combining my passions for the life sciences and machine learning, where I [embed multi-modal health data](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-a4c6d279fd42?source=friends_link&sk=9e2330d6cf1fe4548f5d94965bfec825) with large language models and use those embeddings as input to a machine learning model to [predict clinical trial outcomes](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-7ce6c27831f9?source=friends_link&sk=f65fd3cce048a5e72ffe54673062e70f).<br>
+I recently published a two-part blog post, combining my passions for the life sciences and machine learning, where I [embed multi-modal health data](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-a4c6d279fd42?source=friends_link&sk=9e2330d6cf1fe4548f5d94965bfec825) with large language models and use those embeddings to train a machine learning model to [predict clinical trial outcomes](https://medium.com/@lennart.langouche/clinical-trial-outcome-prediction-7ce6c27831f9?source=friends_link&sk=f65fd3cce048a5e72ffe54673062e70f).<br>
 
 
 <p>&nbsp;</p>
