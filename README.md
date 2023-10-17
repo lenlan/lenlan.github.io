@@ -1,7 +1,7 @@
 # About Me
 
 <br>
-I am a computational biologist/machine learning scientist with over 8 years of experience. My interests include: leveraging machine learning to analyze health data including multi-omics and real-world data for improving patient prognosis and enabling precision medicine.<br><br>
+I am a computational biologist/machine learning scientist with over 8 years of experience. My interests include: leveraging machine learning to analyze health data for improving patient prognosis and enabling precision medicine.<br><br>
 During my PhD in the [Bioengineering Department at UCSD](https://be.ucsd.edu/) I focused on using AI/ML for infectious disease diagnostics in the context of systems medicine as part of the [Fraley Lab](https://fraley.ucsd.edu/systems-medicine). My PhD resulted in publications in Bioinformatics and Biomicrofluidics:<br> 
 
 > **L. Langouche**, [*Advancing Rapid Infectious Disease Screening Using a Combined Experimental/Computational Approach*](https://escholarship.org/content/qt16x0t2x3/qt16x0t2x3_noSplash_01cb415bf9021eaf7221ce26ae44cb60.pdf), University of California, San Diego (2021)<br>
