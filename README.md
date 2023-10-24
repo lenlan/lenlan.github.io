@@ -11,7 +11,7 @@ During my PhD in the [Bioengineering Department at UCSD](https://be.ucsd.edu/) I
 > W. Cai, E. Wang, P.W. Chen, Y.H. Tsai, **L. Langouche**, Y.H. Lo, [*A microfluidic design for desalination and selective removal and addition of components in biosamples*](https://doi.org/10.1063/1.5093348), Biomicrofluidics, 13.2 (2019)<br>
 <br>
 
-During my PhD I interned at [Illumina](https://www.illumina.com/), where I gained a better understanding of genomics and product management. After my PhD I worked as a Life Sciences Strategy Consultant for two years at [IQVIA](https://www.iqvia.com/), where I became experienced at leading small teams to address complex business challenges for major pharmaceutical companies.<br>
+While in Grad School, I interned at [Illumina](https://www.illumina.com/), where I gained a better understanding of genomics and product management. After my PhD I worked as a Life Sciences Strategy Consultant for two years at [IQVIA](https://www.iqvia.com/), where I became experienced at leading small teams to address complex business challenges for major pharmaceutical companies.<br>
 <br>
 Currently, I am actively seeking opportunities that empower me to spearhead initiatives generating impactful societal change at the forefront of innovation. I'm primarily interested in biotech, climate tech, and health tech but open to other opportunities. <br>
 <br>
